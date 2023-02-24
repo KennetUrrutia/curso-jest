@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677146822809" clover="3.2.0">
-  <project timestamp="1677146822810" name="All files">
+<coverage generated="1677256965102" clover="3.2.0">
+  <project timestamp="1677256965102" name="All files">
     <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="9" coveredelements="7" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
     <file name="arrays.js" path="/Users/kenneturrutia/Desktop/Cursos/Jest/jestsource/src/arrays.js">
       <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
