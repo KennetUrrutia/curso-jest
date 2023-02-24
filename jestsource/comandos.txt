@@ -1,0 +1,26 @@
+1. command to install
+    npm install --save-dev jest
+
+2. to run test
+    npm test
+
+3. jest functions
+    - toBeNull  // matches only null
+    - toBeUndefined  // matches only undefined
+    - toBeDefined  // is the opposite of toBeUndefined
+    - toBeTruthy  // matches anything that an if statement treats as true
+    - toBeFalsy  // matches anything that an if statement treats as false
+    - toBeGreaterThan() // validate if the number is greater than other numbers
+    - toBeGreaterThanOrEqual() // Validate if the number is greater than or equal to other numbers
+    - toBeLessThan() // if the number is less than other numbers
+    - toBeLessThanOrEqual() //validate if the number is less or equal to other numbers
+    - toBe() // validate if the number is equal to other numbers
+    - toBeCloseTo() // Validate the float numbers
+    - toEqual() // validate if the number is equal to other numbers
+    - toContain('string') // if an array contain some to equal the string
+    - toHaveLength(x) // verify if the length is x
+
+4. Ver el porcentage de pruebas que se tienen en el proyecto
+    "test:cov": "jest --coverage"
+
+    RUN: npm run test:cov

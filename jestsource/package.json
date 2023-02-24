@@ -1,0 +1,19 @@
+{
+  "name": "jestsource",
+  "version": "1.0.0",
+  "description": "jestsource",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:cov": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "kennet urrutia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
