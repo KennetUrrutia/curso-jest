@@ -1,23 +1,21 @@
 {
-  "name": "jestsource",
+  "name": "jest-testing",
   "version": "1.0.0",
-  "description": "jestsource",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:cov": "jest --coverage"
+    "test": "jest"
   },
   "keywords": [
     "jest",
     "testing"
   ],
-  "author": "kennet urrutia",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.4.3"
   },
   "dependencies": {
-    "@types/jest": "^29.4.0",
-    "xmlhttprequest": "^1.8.0"
+    "@types/jest": "^29.4.0"
   }
 }

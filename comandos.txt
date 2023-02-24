@@ -1,6 +1,7 @@
 1. command to install
     npm install --save-dev jest
-
+    npm install @types/jest
+    
 2. to run test
     npm test
 
